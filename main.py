@@ -18,6 +18,3 @@ def main(website=WEB_ADDRESS):
 
 if __name__ == "__main__":
     main()
-
-    # Create a tweet
-    #api.update_status("Hello Tweepy")
